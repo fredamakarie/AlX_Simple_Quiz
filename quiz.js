@@ -12,4 +12,4 @@ else {
 }
 
 const submit = document.getElementById("submit-answer");
-submit.addEventListener ("click", checkAnswer)
+submit.addEventListener("click", checkAnswer)
